@@ -185,7 +185,7 @@ BO_ 448 ADAS_0x1C0: 8 ADAS
  SG_ ADAS_1C0_AliveCounter : 11|4@0+ (1,0) [0|14] ""  GW
  SG_ ADAS_LatCtrl_Sts : 18|3@0+ (1,0) [0|7] ""  GW
  SG_ ADAS_LatCtrl_StsVld : 20|2@0+ (1,0) [0|3] ""  GW
- SG_ ADAS_LatCtrl_DrvrOvrd : 21|1@0+ (1,0) [0|1] ""  GW
+ SG_ ADAS_LatCtrl_DrvrOvrd : 21|1@0+ (1,0) [0|1] ""  GWwhat is 
  SG_ ADAS_LatCtrl_DrvrOvrdVld : 23|2@0+ (1,0) [0|3] ""  GW
  SG_ ADAS_LatCtrl_Typ : 27|4@0+ (1,0) [0|15] ""  GW
  SG_ ADAS_LatCtrl_ReqVld : 29|2@0+ (1,0) [0|3] ""  GW
@@ -195,7 +195,7 @@ BO_ 450 EPS_0x1C2: 8 GW
  SG_ EPS_1C2_CheckSum : 7|8@0+ (1,0) [0|255] ""  ADAS,FCM,PKC
  SG_ EPS_1C2_AliveCounter : 11|4@0+ (1,0) [0|14] ""  ADAS,FCM,PKC
  SG_ EPS_AbortFb : 15|4@0+ (1,0) [0|15] ""  ADAS
- SG_ EPS_SteerWhlAgSig : 23|16@0+ (0.0625,-780) [-780|780] "deg"  ADAS,FCM,PKC
+ SG_ EPS_SteerWhlAgSig : 23|16@0+ (0.0625,-781.3) [-781.3|781.3] "deg"  ADAS,FCM,PKC
  SG_ EPS_SteerAgSnsrCalSts : 32|1@0+ (1,0) [0|1] ""  ADAS,FCM
  SG_ EPS_SteerWhlAgSigVld : 34|2@0+ (1,0) [0|3] ""  ADAS,FCM
  SG_ EPS_SteerWhlRotSpdDir : 36|2@0+ (1,0) [0|3] ""  ADAS
