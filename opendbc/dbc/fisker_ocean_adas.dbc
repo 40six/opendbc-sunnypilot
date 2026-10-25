@@ -195,7 +195,7 @@ BO_ 450 EPS_0x1C2: 8 GW
  SG_ EPS_1C2_CheckSum : 7|8@0+ (1,0) [0|255] ""  ADAS,FCM,PKC
  SG_ EPS_1C2_AliveCounter : 11|4@0+ (1,0) [0|14] ""  ADAS,FCM,PKC
  SG_ EPS_AbortFb : 15|4@0+ (1,0) [0|15] ""  ADAS
- SG_ EPS_SteerWhlAgSig : 23|16@0+ (0.0625,-781.3) [-781.3|781.3] "deg"  ADAS,FCM,PKC
+ SG_ EPS_SteerWhlAgSig : 23|16@0+ (0.0625,-780) [-780|780] "deg"  ADAS,FCM,PKC
  SG_ EPS_SteerAgSnsrCalSts : 32|1@0+ (1,0) [0|1] ""  ADAS,FCM
  SG_ EPS_SteerWhlAgSigVld : 34|2@0+ (1,0) [0|3] ""  ADAS,FCM
  SG_ EPS_SteerWhlRotSpdDir : 36|2@0+ (1,0) [0|3] ""  ADAS
